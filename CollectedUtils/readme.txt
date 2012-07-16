@@ -1,0 +1,1 @@
+CollectedUtils is a library consisting of open source .NET code I've found at sources like StackOverflow.com and elsewhere (along with code I've written inspired by these findings) collected into a single assembly.
